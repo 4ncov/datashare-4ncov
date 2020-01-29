@@ -22,6 +22,6 @@
 4. 后端开发人员
 
 ## 志愿者群
-![](https://ftp.bmp.ovh/imgs/2020/01/d744fa4b32043ece.png)
+![](https://github.com/4ncov/web/blob/master/image/wxqun.png)
 
 
