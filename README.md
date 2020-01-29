@@ -22,4 +22,6 @@
 4. 后端开发人员
 
 ## 志愿者群
-![](https://i.imgur.com/S5rTMxa.png)
+![](https://i.imgur.com/FOxVsjy.png)
+
+
