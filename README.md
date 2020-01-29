@@ -9,7 +9,7 @@
 ## 逻辑图
 
 
-![](https://i.imgur.com/z8B5KjY.png)
+![](https://github.com/4ncov/web/blob/master/image/datashareflow.png)
 
 
 
@@ -22,6 +22,6 @@
 4. 后端开发人员
 
 ## 志愿者群
-![](https://i.imgur.com/FOxVsjy.png)
+![](https://github.com/4ncov/web/blob/master/image/wxqun.png)
 
 
