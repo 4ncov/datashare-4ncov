@@ -1,4 +1,4 @@
-# datashare-4ncov
+# 4nvoc.info
 
 ## 4nvoc-datashare数据共享平台
 
