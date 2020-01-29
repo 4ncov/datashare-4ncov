@@ -18,4 +18,4 @@
 
 ## 志愿者群
 
-![](https://i.imgur.com/k43OSEe.png)
+![](https://i.imgur.com/FOxVsjy.png)
