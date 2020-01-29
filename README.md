@@ -9,7 +9,7 @@
 ## 逻辑图
 
 
-![](https://github.com/4ncov/web/blob/master/image/datashareflow.png)
+![](https://ftp.bmp.ovh/imgs/2020/01/2cac26fd226af6f9.png)
 
 
 
@@ -22,6 +22,6 @@
 4. 后端开发人员
 
 ## 志愿者群
-![](https://github.com/4ncov/web/blob/master/image/wxqun.png)
+![](https://ftp.bmp.ovh/imgs/2020/01/d744fa4b32043ece.png)
 
 
